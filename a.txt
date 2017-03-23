@@ -1,0 +1,23 @@
+一.mac系统
+对mac系统的操作和快捷键都熟悉了,例如:
+windows系统下的保存是ctrl + s
+mac系统下的保存是command + s
+
+右alt是Option键
+左alt是Option + Control
+
+回车和backspace基本没有变化
+
+二.Unity各版本的使用
+在培训学校使用的Unity的版本是4.6,
+我在公司的mac一体机上把已经安装的版本都使用
+并了解了,5.x版本以上的Unity没有Edit->Preferences这一选项
+5.x版本打开空项目还会自带一个天空盒和一个Directional Light
+
+三.coding.net的使用
+今天简单使用了coding.net
+已经能够新建项目,下载分支等等
+
+
+
+
